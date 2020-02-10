@@ -2,13 +2,18 @@
 
 Health insurance coverage data compiled from the US Department of Health and Human Services and US Census Bureau. *Data Source:*  https://www.kaggle.com/hhs/health-insurance
 
-**Assignment 2/11/20:**
-1. What is the question you hope to answer?
-2. What data are you planning to use to answer that question?
-3. What do you know about the data you're using so far?
-4. Why did you choose this topic?
+## What is the question you hope to answer? ##
+How has employer-sponsored health insurance coverage decreased the uninsured rates in various states?    
+How has Medicare expansion decreased the uninsured rates in the states that expanded?
+Can we predict the next five years of nationwide health insurance coverage based on this data set? 
 
-**Possible questions for analysis:**
-1. How has the Affordable Care Act changed the rate of citizens with health insurance coverage? Which states observed the greatest decline in their uninsured rate?
-2. Did those states expand Medicaid program coverage and/or implement a health insurance marketplace?
-3. What do you predict will happen to the nationwide uninsured rate in the next five years?
+## What data are you planning to use to answer that question? ##
+Health insurance coverage data compiled from the US Department of Health and Human Services and US Census Bureau from 2010 to 2016. Data Source: https://www.kaggle.com/hhs/health-insurance
+
+## What do you know about the data you're using so far? ##
+The data is organized by state and includes different types of insurance, from public to private (employer-sponsored, health marketplace, Medicare, and Medicaid). 
+
+## Why did you choose this topic? ##
+I currently work in public health, where we often see health insurance coverage is a barrier to people seeking health care for preventive reasons. I'm interested to see the short-term effects of the Affordable Care Act passed in 2010. 
+
+
