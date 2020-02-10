@@ -1,6 +1,6 @@
 # Health Insurance Analysis in U.S. (2010 to 2016)
 
-Health insurance coverage data compiled from the US Department of Health and Human Services and US Census Bureau.* *Data Source:* * https://www.kaggle.com/hhs/health-insurance
+Health insurance coverage data compiled from the US Department of Health and Human Services and US Census Bureau. *Data Source:*  https://www.kaggle.com/hhs/health-insurance
 
 **Assignment 2/11/20:**
 1. What is the question you hope to answer?
