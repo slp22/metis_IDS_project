@@ -1,6 +1,8 @@
 # Health Insurance Analysis in U.S. (2010 to 2016)
 
-Health insurance coverage data compiled from the US Department of Health and Human Services and US Census Bureau. *Data Source:*  https://www.kaggle.com/hhs/health-insurance
+Health insurance coverage data compiled from the US Department of Health and Human Services and US Census Bureau. <br/>   
+*Data Source:*  https://www.kaggle.com/hhs/health-insurance <br/>
+*Jupyter Notebook:* https://github.com/slp22/metis_IDS_project/blob/master/Health_Insurance_Analysis.ipynb <br/>
 
 ## What is the question you hope to answer? ##
 How has employer-sponsored health insurance coverage decreased the uninsured rates in various states?    
