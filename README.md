@@ -20,7 +20,7 @@ Unknown at this time. Will explore the data more before deciding on a model.
 
 ## What is the question you hope to answer? ##
 How has employer-sponsored health insurance coverage decreased the uninsured rates in various states?    
-How has Medicare expansion decreased the uninsured rates in the states that expanded?
+How has Medicare expansion decreased the uninsured rates in the states that expanded? <br/> 
 Can we predict the next five years of nationwide health insurance coverage based on this data set? 
 
 ## What data are you planning to use to answer that question? ##
