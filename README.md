@@ -2,7 +2,7 @@
 
 Health insurance coverage data by state compiled from the US Department of Health and Human Services and US Census Bureau. <br/>   
 *Data Source:*  https://www.kaggle.com/hhs/health-insurance <br/>
-*Jupyter Notebook:* https://github.com/slp22/metis_IDS_project/blob/master/Health_Insurance_Analysis.ipynb <br/>
+*Jupyter Notebook:* https://github.com/slp22/metis_IDS_project/blob/master/Health_Insurance_Analysis-2020-02-23.ipynb <br/>
 
 ## What data have you gathered, and how did you gather it? ##
 Imported data from Kaggle, cleaned the dataframe (renamed columns, converted objects to floats), and dropped a row that has a different scope (national-level data).  
@@ -16,11 +16,9 @@ Yes, I will be able to answer my research questions with this data.
 ## What modeling approach are you using to answer your question? ##
 Unknown at this time. Will explore the data more before deciding on a model.  
 
-...
-
 ## What is the question you hope to answer? ##
 How has employer-sponsored health insurance coverage decreased the uninsured rates in various states?    
-How has Medicare expansion decreased the uninsured rates in the states that expanded?
+How has Medicare expansion decreased the uninsured rates in the states that expanded? <br/> 
 Can we predict the next five years of nationwide health insurance coverage based on this data set? 
 
 ## What data are you planning to use to answer that question? ##
