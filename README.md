@@ -2,7 +2,7 @@
 
 Health insurance coverage data by state compiled from the US Department of Health and Human Services and US Census Bureau. <br/>   
 *Data Source:*  https://www.kaggle.com/hhs/health-insurance <br/>
-*Jupyter Notebook:* https://github.com/slp22/metis_IDS_project/blob/master/Health_Insurance_Analysis-2020-02-23.ipynb <br/>
+*Jupyter Notebook:* https://github.com/slp22/metis_IDS_project/blob/master/Health_Insurance_Analysis.ipynb <br/>
 
 ## What data have you gathered, and how did you gather it? ##
 Imported data from Kaggle, cleaned the dataframe (renamed columns, converted objects to floats), and dropped a row that has a different scope (national-level data).  
